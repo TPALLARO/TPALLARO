@@ -30,7 +30,6 @@ Here are some ideas to get you started:
   <img align="center" alt="kotlin" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
   <img align="center" alt="java" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
 
-  
   ##
   
  
